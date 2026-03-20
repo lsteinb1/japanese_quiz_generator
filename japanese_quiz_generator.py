@@ -12,7 +12,7 @@ import jqg_config
 jqg_version = 'v1'
 
 print("japanese_quiz_generator {0}\n".format(jqg_version))
-print("word_sets {0}\n".format(word_sets.version))
+print("word_sets {0}\n".format(word_sets.ws_version))
 
 times_run = 0
 
